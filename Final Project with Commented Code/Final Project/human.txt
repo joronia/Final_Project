@@ -1,0 +1,6 @@
+parts
+human
+The world is good.
+man
+Male
+endinput
