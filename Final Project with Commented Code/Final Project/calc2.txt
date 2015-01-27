@@ -1,8 +1,0 @@
-sin x
-y / r
-cos x
-x / r
-tan x
-y / x
-sec x
-r / x

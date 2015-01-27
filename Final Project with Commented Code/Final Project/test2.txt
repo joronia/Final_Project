@@ -1,4 +1,0 @@
-test line one
-test def one
-test two
-test two line two
